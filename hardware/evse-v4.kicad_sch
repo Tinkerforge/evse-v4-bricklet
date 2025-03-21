@@ -15521,9 +15521,9 @@
 		)
 		(uuid "5bc2553c-6859-4843-b98b-e499f2eaa8bc")
 	)
-	(text "Version Detection\n3.X : GND\n4.X : VCC"
+	(text "Version Detection\n2.X : NC\n3.X : GND\n4.X : VCC"
 		(exclude_from_sim no)
-		(at 120.65 173.355 0)
+		(at 113.03 173.355 0)
 		(effects
 			(font
 				(size 0.9906 0.9906)

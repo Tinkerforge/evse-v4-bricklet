@@ -553,7 +553,7 @@
       "plot": "pcb/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "evse-v2.step",
+      "step": "evse-v4.step",
       "svg": "",
       "vrml": ""
     },

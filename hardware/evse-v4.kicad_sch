@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "EVSE Bricklet")
-		(date "2025-01-06")
-		(rev "4.0")
+		(date "2025-04-02")
+		(rev "4.1")
 		(company "Tinkerforge GmbH")
 		(comment 1 "Licensed under CERN OHL v.1.1")
 		(comment 2 "Copyright (©) 2025, B.Nordmeyer <bastian@tinkerforge.com>")
@@ -26446,68 +26446,6 @@
 		)
 	)
 	(symbol
-		(lib_id "tinkerforge:DRILL")
-		(at 374.142 248.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-0000654b8663")
-		(property "Reference" "A106"
-			(at 375.412 247.65 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "Rail"
-			(at 370.332 248.92 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "kicad-libraries:DIN-Rail-Mount-Vertical"
-			(at 374.142 248.92 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 374.142 248.92 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 374.142 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "evse-v3"
-				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
-					(reference "A106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "tinkerforge:CON-SENSOR2-BLANK")
 		(at 18.415 155.575 0)
 		(mirror y)
@@ -29369,6 +29307,68 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:DRILL")
+		(at 401.32 241.935 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a6bcc19-6a52-41e1-9051-a65f77389854")
+		(property "Reference" "F105"
+			(at 402.59 240.665 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "DRILL"
+			(at 398.145 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kicad-libraries:DRILL_NP"
+			(at 401.32 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 401.32 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 401.32 241.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "F105")
 					(unit 1)
 				)
 			)
@@ -32576,7 +32576,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:DRILL")
-		(at 382.905 248.92 0)
+		(at 388.62 248.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32584,7 +32584,7 @@
 		(dnp no)
 		(uuid "71ac569f-6beb-49b8-adf0-b12e3dadc05b")
 		(property "Reference" "F102"
-			(at 384.175 247.65 0)
+			(at 389.89 247.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32593,7 +32593,7 @@
 			)
 		)
 		(property "Value" "ISO DRILL"
-			(at 377.571 248.92 0)
+			(at 383.286 248.92 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32602,7 +32602,7 @@
 			)
 		)
 		(property "Footprint" "kicad-libraries:LSMTSO-M3"
-			(at 382.905 248.92 0)
+			(at 388.62 248.92 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32611,7 +32611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 382.905 248.92 0)
+			(at 388.62 248.92 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32619,7 +32619,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 382.905 248.92 0)
+			(at 388.62 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38869,6 +38869,68 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P113")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:DRILL")
+		(at 388.62 241.935 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f88f9e02-c37b-4651-a99d-b28d8bd450e4")
+		(property "Reference" "F104"
+			(at 389.89 240.665 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "DRILL"
+			(at 385.445 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kicad-libraries:DRILL_NP"
+			(at 388.62 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 241.935 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 388.62 241.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "F104")
 					(unit 1)
 				)
 			)

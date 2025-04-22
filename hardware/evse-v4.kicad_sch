@@ -1381,21 +1381,21 @@
 				)
 			)
 		)
-		(symbol "tinkerforge:CONN_01X06"
+		(symbol "tinkerforge:CONN_01X07"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "P"
-				(at 0 8.89 0)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "CONN_01X06"
+			(property "Value" "CONN_01X07"
 				(at 2.54 0 90)
 				(effects
 					(font
@@ -1419,7 +1419,7 @@
 					)
 				)
 			)
-			(property "Description" "Connector 01x06"
+			(property "Description" "Connector 01x07"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1428,7 +1428,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Pin_Header_Straight_1X06 Pin_Header_Angled_1X06 Socket_Strip_Straight_1X06 Socket_Strip_Angled_1X06"
+			(property "ki_fp_filters" "Pin_Header_Straight_1X07 Pin_Header_Angled_1X07 Socket_Strip_Straight_1X07 Socket_Strip_Angled_1X07"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1437,10 +1437,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "CONN_01X06_0_1"
+			(symbol "CONN_01X07_0_1"
 				(rectangle
-					(start -1.27 -6.223)
-					(end 0.254 -6.477)
+					(start -1.27 -8.89)
+					(end 1.27 8.89)
 					(stroke
 						(width 0)
 						(type default)
@@ -1450,8 +1450,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 -3.683)
-					(end 0.254 -3.937)
+					(start -1.27 -7.493)
+					(end 0.254 -7.747)
 					(stroke
 						(width 0)
 						(type default)
@@ -1461,8 +1461,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 -1.143)
-					(end 0.254 -1.397)
+					(start -1.27 -4.953)
+					(end 0.254 -5.207)
 					(stroke
 						(width 0)
 						(type default)
@@ -1472,8 +1472,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 1.397)
-					(end 0.254 1.143)
+					(start -1.27 -2.413)
+					(end 0.254 -2.667)
 					(stroke
 						(width 0)
 						(type default)
@@ -1483,8 +1483,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 3.937)
-					(end 0.254 3.683)
+					(start -1.27 0.127)
+					(end 0.254 -0.127)
 					(stroke
 						(width 0)
 						(type default)
@@ -1494,8 +1494,8 @@
 					)
 				)
 				(rectangle
-					(start -1.27 6.477)
-					(end 0.254 6.223)
+					(start -1.27 2.667)
+					(end 0.254 2.413)
 					(stroke
 						(width 0)
 						(type default)
@@ -1505,8 +1505,19 @@
 					)
 				)
 				(rectangle
-					(start -1.27 7.62)
-					(end 1.27 -7.62)
+					(start -1.27 5.207)
+					(end 0.254 4.953)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 7.747)
+					(end 0.254 7.493)
 					(stroke
 						(width 0)
 						(type default)
@@ -1516,9 +1527,9 @@
 					)
 				)
 			)
-			(symbol "CONN_01X06_1_1"
+			(symbol "CONN_01X07_1_1"
 				(pin passive line
-					(at -5.08 6.35 0)
+					(at -5.08 7.62 0)
 					(length 3.81)
 					(name "P1"
 						(effects
@@ -1536,7 +1547,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 3.81 0)
+					(at -5.08 5.08 0)
 					(length 3.81)
 					(name "P2"
 						(effects
@@ -1554,7 +1565,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 1.27 0)
+					(at -5.08 2.54 0)
 					(length 3.81)
 					(name "P3"
 						(effects
@@ -1572,7 +1583,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -1.27 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "P4"
 						(effects
@@ -1590,7 +1601,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -3.81 0)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "P5"
 						(effects
@@ -1608,7 +1619,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -6.35 0)
+					(at -5.08 -5.08 0)
 					(length 3.81)
 					(name "P6"
 						(effects
@@ -1618,6 +1629,24 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "P7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14385,6 +14414,16 @@
 			(type default)
 		)
 		(uuid "cee57505-d4dc-40ce-a936-499c578fb245")
+	)
+	(wire
+		(pts
+			(xy 69.215 123.19) (xy 71.755 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d06299bf-35a6-436a-b579-84bd1fe10902")
 	)
 	(wire
 		(pts
@@ -32883,8 +32922,8 @@
 		)
 	)
 	(symbol
-		(lib_id "tinkerforge:CONN_01X06")
-		(at 76.835 132.08 0)
+		(lib_id "tinkerforge:CONN_01X07")
+		(at 76.835 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32893,7 +32932,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c299447-0591-4c1e-b269-66d605993c15")
 		(property "Reference" "P111"
-			(at 78.74 130.8678 0)
+			(at 78.74 128.3857 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32902,7 +32941,7 @@
 			)
 		)
 		(property "Value" "GPIO"
-			(at 78.74 133.2921 0)
+			(at 78.74 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32910,17 +32949,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad-libraries:B6B-ZR"
-			(at 76.835 132.08 0)
+		(property "Footprint" "kicad-libraries:B7B-ZR"
+			(at 78.74 133.2343 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.835 132.08 0)
+			(at 76.835 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32928,8 +32968,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector 01x06"
-			(at 76.835 132.08 0)
+		(property "Description" "Connector 01x07"
+			(at 76.835 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32954,6 +32994,9 @@
 		)
 		(pin "6"
 			(uuid "8c271fa1-ba1e-4d59-8bf4-7b7bff209b7d")
+		)
+		(pin "7"
+			(uuid "9ebf3e68-3808-472c-a926-b62f701a2ff1")
 		)
 		(instances
 			(project ""
@@ -34653,6 +34696,70 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:GND")
+		(at 69.215 123.19 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ede2af5-87f5-4e59-b405-cc77a5e8c698")
+		(property "Reference" "#PWR0209"
+			(at 69.215 123.19 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 67.437 123.19 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.215 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.215 123.19 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 69.215 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bdb109fd-6cfa-4065-a340-d01c5b4417e2")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)

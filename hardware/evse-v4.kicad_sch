@@ -9457,6 +9457,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.725 127.635) (xy 87.63 127.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba1d900-40fd-405d-bee3-ec63d853700e")
+	)
+	(wire
+		(pts
 			(xy 340.995 182.88) (xy 340.995 162.56)
 		)
 		(stroke
@@ -10667,7 +10677,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 130.81) (xy 71.755 130.81)
+			(xy 70.485 130.175) (xy 73.025 130.175)
 		)
 		(stroke
 			(width 0)
@@ -11454,6 +11464,16 @@
 			(type default)
 		)
 		(uuid "5859be06-f1a9-4c66-8d99-f8c93ff0c84c")
+	)
+	(wire
+		(pts
+			(xy 85.725 130.175) (xy 87.63 130.175)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58689abd-41cb-406a-afbd-e56725a0d388")
 	)
 	(wire
 		(pts
@@ -12627,7 +12647,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 125.73) (xy 71.755 125.73)
+			(xy 85.09 125.095) (xy 87.63 125.095)
 		)
 		(stroke
 			(width 0)
@@ -12747,7 +12767,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 128.27) (xy 71.755 128.27)
+			(xy 70.485 127.635) (xy 73.025 127.635)
 		)
 		(stroke
 			(width 0)
@@ -13147,7 +13167,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 138.43) (xy 71.755 138.43)
+			(xy 85.09 137.795) (xy 87.63 137.795)
 		)
 		(stroke
 			(width 0)
@@ -14297,7 +14317,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 133.35) (xy 71.755 133.35)
+			(xy 70.485 132.715) (xy 73.025 132.715)
 		)
 		(stroke
 			(width 0)
@@ -14417,7 +14437,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 123.19) (xy 71.755 123.19)
+			(xy 85.09 122.555) (xy 87.63 122.555)
 		)
 		(stroke
 			(width 0)
@@ -15014,6 +15034,16 @@
 			(type default)
 		)
 		(uuid "e484a6e3-9465-48c9-85ed-fdedd6257b24")
+	)
+	(wire
+		(pts
+			(xy 85.725 132.715) (xy 87.63 132.715)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4860187-fb8f-402e-a749-d5ade782ef55")
 	)
 	(wire
 		(pts
@@ -15697,7 +15727,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 135.89) (xy 71.755 135.89)
+			(xy 85.09 135.255) (xy 87.63 135.255)
 		)
 		(stroke
 			(width 0)
@@ -16166,7 +16196,7 @@
 	)
 	(text "Motor Lock:\nOpen/Close (Out)\nEN (OUT)\nClosed (IN)"
 		(exclude_from_sim no)
-		(at 77.47 149.225 0)
+		(at 83.185 154.305 0)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -16766,7 +16796,7 @@
 	)
 	(global_label "GPIO2"
 		(shape output)
-		(at 69.215 133.35 180)
+		(at 70.485 132.715 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16776,7 +16806,7 @@
 		)
 		(uuid "439242b2-b631-47f1-a217-75e97234b96c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9629 133.35 0)
+			(at 64.2329 132.715 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -17221,7 +17251,7 @@
 	)
 	(global_label "GPIO1"
 		(shape output)
-		(at 69.215 130.81 180)
+		(at 70.485 130.175 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17231,7 +17261,7 @@
 		)
 		(uuid "710ed716-2c83-4277-af82-65f5a8595de9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9629 130.81 0)
+			(at 64.2329 130.175 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -18253,7 +18283,7 @@
 	)
 	(global_label "GPIO0"
 		(shape output)
-		(at 69.215 128.27 180)
+		(at 70.485 127.635 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18263,7 +18293,7 @@
 		)
 		(uuid "f6ed1cbb-fb6b-4700-9c27-bb732e66c980")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9629 128.27 0)
+			(at 64.2329 127.635 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -28155,7 +28185,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:GND")
-		(at 69.215 138.43 270)
+		(at 85.09 137.795 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28163,7 +28193,7 @@
 		(dnp no)
 		(uuid "05f2caff-757f-416b-ab6b-8514a7258c05")
 		(property "Reference" "#PWR0215"
-			(at 69.215 138.43 0)
+			(at 85.09 137.795 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -28172,7 +28202,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.437 138.43 0)
+			(at 83.312 137.795 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -28181,7 +28211,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.215 138.43 0)
+			(at 85.09 137.795 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -28189,7 +28219,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.215 138.43 0)
+			(at 85.09 137.795 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -28197,7 +28227,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.215 138.43 0)
+			(at 85.09 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29998,6 +30028,72 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0175")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:R")
+		(at 79.375 130.175 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33708986-ac1d-403e-a117-2bb61e665563")
+		(property "Reference" "R155"
+			(at 73.025 128.905 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "82"
+			(at 79.375 130.175 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kicad-libraries:R0603F"
+			(at 79.375 130.175 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 79.375 130.175 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 79.375 130.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f706485e-6789-478c-be5e-487b22689351")
+		)
+		(pin "2"
+			(uuid "75966c1b-fc68-4c96-b574-843ba2b49f12")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "R155")
 					(unit 1)
 				)
 			)
@@ -32794,7 +32890,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:3V3")
-		(at 69.215 135.89 90)
+		(at 85.09 135.255 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32802,7 +32898,7 @@
 		(dnp no)
 		(uuid "69ec615b-ab24-499a-b062-c2995a0c5052")
 		(property "Reference" "#PWR0218"
-			(at 66.675 135.89 0)
+			(at 82.55 135.255 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -32811,7 +32907,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 66.04 135.89 0)
+			(at 81.915 135.255 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -32819,7 +32915,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.215 135.89 0)
+			(at 85.09 135.255 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32827,7 +32923,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.215 135.89 0)
+			(at 85.09 135.255 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -32835,7 +32931,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.215 135.89 0)
+			(at 85.09 135.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32923,7 +33019,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:CONN_01X07")
-		(at 76.835 130.81 0)
+		(at 92.71 130.175 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32932,7 +33028,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c299447-0591-4c1e-b269-66d605993c15")
 		(property "Reference" "P111"
-			(at 78.74 128.3857 0)
+			(at 94.615 127.7507 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32941,7 +33037,7 @@
 			)
 		)
 		(property "Value" "GPIO"
-			(at 78.74 130.81 0)
+			(at 94.615 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32950,7 +33046,7 @@
 			)
 		)
 		(property "Footprint" "kicad-libraries:B7B-ZR"
-			(at 78.74 133.2343 0)
+			(at 94.615 132.5993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32960,7 +33056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.835 130.81 0)
+			(at 92.71 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32969,7 +33065,7 @@
 			)
 		)
 		(property "Description" "Connector 01x07"
-			(at 76.835 130.81 0)
+			(at 92.71 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34703,7 +34799,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:GND")
-		(at 69.215 123.19 270)
+		(at 85.09 122.555 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34711,7 +34807,7 @@
 		(dnp no)
 		(uuid "9ede2af5-87f5-4e59-b405-cc77a5e8c698")
 		(property "Reference" "#PWR0209"
-			(at 69.215 123.19 0)
+			(at 85.09 122.555 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -34720,7 +34816,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.437 123.19 0)
+			(at 83.312 122.555 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -34729,7 +34825,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.215 123.19 0)
+			(at 85.09 122.555 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34737,7 +34833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.215 123.19 0)
+			(at 85.09 122.555 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -34745,7 +34841,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.215 123.19 0)
+			(at 85.09 122.555 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34952,6 +35048,72 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:R")
+		(at 79.375 127.635 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1cf4bf3-ce01-426a-b291-0a9432ded9a9")
+		(property "Reference" "R152"
+			(at 73.025 126.365 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "82"
+			(at 79.375 127.635 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kicad-libraries:R0603F"
+			(at 79.375 127.635 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 79.375 127.635 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 79.375 127.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6ce9f44a-40b2-46b4-bdf3-e092976f587f")
+		)
+		(pin "2"
+			(uuid "89edf31f-db67-4213-8518-849f46d45c0e")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "R152")
 					(unit 1)
 				)
 			)
@@ -36472,7 +36634,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:VCCPWR")
-		(at 69.215 125.73 90)
+		(at 85.09 125.095 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36480,7 +36642,7 @@
 		(dnp no)
 		(uuid "bd98ed03-3b3c-4109-ae7f-6c1df2f3014a")
 		(property "Reference" "#PWR0220"
-			(at 73.025 125.73 0)
+			(at 88.9 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36489,7 +36651,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 64.8208 125.2982 0)
+			(at 80.6958 124.6632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36497,7 +36659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.215 125.73 0)
+			(at 85.09 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36506,7 +36668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.215 125.73 0)
+			(at 85.09 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36515,7 +36677,7 @@
 			)
 		)
 		(property "Description" "power-flag symbol"
-			(at 69.215 125.73 0)
+			(at 85.09 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37126,6 +37288,72 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:R")
+		(at 79.375 132.715 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc0fea08-31c4-45df-9248-c21d873ef159")
+		(property "Reference" "R156"
+			(at 73.025 131.445 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "82"
+			(at 79.375 132.715 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kicad-libraries:R0603F"
+			(at 79.375 132.715 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 79.375 132.715 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 79.375 132.715 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0f76d29-77e9-4239-8364-2e40104f662b")
+		)
+		(pin "2"
+			(uuid "2dd1bdaf-6eaf-4ced-9479-1751a80c4a35")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "R156")
 					(unit 1)
 				)
 			)

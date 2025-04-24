@@ -33346,7 +33346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad-libraries:LSMTSO-M3"
+		(property "Footprint" "kicad-libraries:PCBCON-7-M3"
 			(at 388.62 248.92 0)
 			(effects
 				(font

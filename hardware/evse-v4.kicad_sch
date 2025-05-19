@@ -8126,6 +8126,12 @@
 		(uuid "019d0986-5101-4db4-9c56-784f6c0f3ffd")
 	)
 	(junction
+		(at 142.875 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01c646e2-9970-4d82-a724-d64c8d6c1896")
+	)
+	(junction
 		(at 104.775 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8252,10 +8258,28 @@
 		(uuid "24b04a8b-9c36-46e9-9513-c10f826f6db8")
 	)
 	(junction
+		(at 94.615 122.555)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2552563b-05c6-4d4f-9e67-3e5279a3cd32")
+	)
+	(junction
+		(at 117.475 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26e3308f-b3ea-4923-a985-4192b3c12973")
+	)
+	(junction
 		(at 344.805 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "290af186-5c2b-4c94-9253-9217d015286e")
+	)
+	(junction
+		(at 377.19 29.845)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c1f0033-e90e-404b-bcac-2e6100333569")
 	)
 	(junction
 		(at 225.425 213.995)
@@ -8280,6 +8304,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33f7b6b0-72d3-4967-8b66-13ffee151840")
+	)
+	(junction
+		(at 94.615 127.635)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "342eef7f-1a32-41d9-af9d-ccf7fc1b1edf")
 	)
 	(junction
 		(at 53.34 27.94)
@@ -8384,6 +8414,12 @@
 		(uuid "50677440-9d4f-4f29-acf1-d6fdcca02732")
 	)
 	(junction
+		(at 136.525 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "532aec70-3747-446f-b6cd-52bc4e6ccefe")
+	)
+	(junction
 		(at 173.99 32.385)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8474,6 +8510,18 @@
 		(uuid "62227148-5648-4c02-a7e9-7fba96ff7bc6")
 	)
 	(junction
+		(at 94.615 135.255)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62bc7c87-da17-4216-be45-c0eb1fa642e6")
+	)
+	(junction
+		(at 138.43 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62eb39d3-8709-4798-93d0-462f33fd25e0")
+	)
+	(junction
 		(at 386.08 104.775)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8546,10 +8594,34 @@
 		(uuid "731f5063-833c-4f0b-84c7-e654263c489b")
 	)
 	(junction
+		(at 94.615 125.095)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "733938c0-4bbb-4c3d-abdc-0c66c6b7403f")
+	)
+	(junction
+		(at 94.615 130.175)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7394f351-70ea-4103-9b6b-5cdf6078eb58")
+	)
+	(junction
 		(at 132.08 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73cfa28b-4c9f-451f-b811-905bc61d18a2")
+	)
+	(junction
+		(at 150.495 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "757ea195-6a9e-4c70-86c9-11900a9aeaa8")
+	)
+	(junction
+		(at 379.73 29.845)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7587094d-8467-48ac-a2bf-0cd91f825caa")
 	)
 	(junction
 		(at 130.81 191.77)
@@ -8574,6 +8646,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "81400dc8-4e44-489e-9b50-8d8185b5ef82")
+	)
+	(junction
+		(at 94.615 132.715)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "818d58c7-d5a8-46c0-9e79-d8cf397b1e2f")
 	)
 	(junction
 		(at 111.76 208.28)
@@ -8798,6 +8876,12 @@
 		(uuid "b2c28f66-ba24-4e47-a70d-82ce1e7b561d")
 	)
 	(junction
+		(at 374.65 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b437e202-1e7b-431d-8a39-d66062ca0a37")
+	)
+	(junction
 		(at 392.43 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8880,6 +8964,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6141630-b84d-404b-ae34-f47f38e26612")
+	)
+	(junction
+		(at 145.415 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9b79189-2f6b-4d39-b3c1-3be4f3691006")
 	)
 	(junction
 		(at 222.25 266.7)
@@ -8972,6 +9062,12 @@
 		(uuid "dcc19115-e883-4222-ad02-40c29e2b2253")
 	)
 	(junction
+		(at 374.65 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddb913d7-e195-4204-8cd2-9cb144a23eb1")
+	)
+	(junction
 		(at 190.5 274.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8982,6 +9078,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e048defb-e37c-49ce-887b-25daa3923022")
+	)
+	(junction
+		(at 220.98 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0bd65a7-1ea9-4e46-b788-609a4753c249")
 	)
 	(junction
 		(at 38.735 145.415)
@@ -9080,6 +9182,12 @@
 		(uuid "fcabc809-47fc-4124-ba77-2039617cfc5f")
 	)
 	(junction
+		(at 134.62 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdd4b9b0-5da6-40a7-8536-ddcefdbcd088")
+	)
+	(junction
 		(at 387.985 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9124,6 +9232,16 @@
 			(type default)
 		)
 		(uuid "00511bc2-ea66-41a4-8244-22355d0d831e")
+	)
+	(wire
+		(pts
+			(xy 93.345 123.825) (xy 94.615 123.825)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00e97922-e8ca-47cc-b413-75dd9e2f1943")
 	)
 	(wire
 		(pts
@@ -9224,6 +9342,16 @@
 			(type default)
 		)
 		(uuid "03dbcf09-e536-4ed7-a948-f95efec35f75")
+	)
+	(wire
+		(pts
+			(xy 93.345 128.905) (xy 94.615 128.905)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "047078b3-9604-4408-907d-da0b9671a0b0")
 	)
 	(wire
 		(pts
@@ -9437,6 +9565,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 127.635) (xy 95.25 127.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aa3490b-db13-43e2-8569-c24c42c337a7")
+	)
+	(wire
+		(pts
 			(xy 318.77 160.02) (xy 346.075 160.02)
 		)
 		(stroke
@@ -9457,7 +9595,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.725 127.635) (xy 87.63 127.635)
+			(xy 85.725 127.635) (xy 94.615 127.635)
 		)
 		(stroke
 			(width 0)
@@ -9787,6 +9925,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 135.255) (xy 95.25 135.255)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17c5e024-8ebe-4767-af54-5c6d6b51483d")
+	)
+	(wire
+		(pts
 			(xy 289.56 105.41) (xy 289.56 109.22)
 		)
 		(stroke
@@ -9837,6 +9985,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 126.365) (xy 94.615 127.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "196f77e2-7fc1-4f91-bdc9-ded05f95c676")
+	)
+	(wire
+		(pts
 			(xy 318.77 165.1) (xy 339.09 165.1)
 		)
 		(stroke
@@ -9864,6 +10022,16 @@
 			(type default)
 		)
 		(uuid "1ae858b3-16fa-4401-835e-ace4734f7608")
+	)
+	(wire
+		(pts
+			(xy 134.62 38.1) (xy 134.62 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b38a5b9-95f2-4bbd-bf3c-e8d36f43391f")
 	)
 	(polyline
 		(pts
@@ -9914,6 +10082,16 @@
 			(type default)
 		)
 		(uuid "1f681563-f4e8-4a5c-8bb0-87189eb1ae81")
+	)
+	(wire
+		(pts
+			(xy 220.98 77.47) (xy 222.885 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f6b105b-cfa4-48c8-999e-b4639365045c")
 	)
 	(wire
 		(pts
@@ -9984,6 +10162,16 @@
 			(type default)
 		)
 		(uuid "21364cea-f7a2-49e2-b31c-f2bb39ff1aac")
+	)
+	(wire
+		(pts
+			(xy 374.65 29.21) (xy 374.65 29.845)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "216c2c8f-f22d-4f7d-964f-d93a917df6c5")
 	)
 	(wire
 		(pts
@@ -10407,6 +10595,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.345 126.365) (xy 94.615 126.365)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30289b98-e16e-4e44-9234-e9dc128c6b4c")
+	)
+	(wire
+		(pts
 			(xy 392.43 55.88) (xy 392.43 63.5)
 		)
 		(stroke
@@ -10594,6 +10792,16 @@
 			(type default)
 		)
 		(uuid "3856cf9e-10c9-4771-99e7-2d9395e80f7c")
+	)
+	(wire
+		(pts
+			(xy 93.345 131.445) (xy 94.615 131.445)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "389e2550-e90c-4a6a-8bb8-4850f6348c18")
 	)
 	(wire
 		(pts
@@ -11147,6 +11355,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 122.555) (xy 95.25 122.555)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b503f52-e352-41aa-908b-cabd2f1b7d24")
+	)
+	(wire
+		(pts
 			(xy 262.89 259.08) (xy 262.89 254)
 		)
 		(stroke
@@ -11407,6 +11625,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.345 121.285) (xy 94.615 121.285)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5555102b-b840-44ad-9752-a0936a22a1a2")
+	)
+	(wire
+		(pts
 			(xy 369.57 106.045) (xy 369.57 104.775)
 		)
 		(stroke
@@ -11434,6 +11662,16 @@
 			(type default)
 		)
 		(uuid "569603b2-a294-4e79-bbb5-9e9652eb03f3")
+	)
+	(wire
+		(pts
+			(xy 117.475 208.28) (xy 111.76 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56fbaee2-983e-4177-bad2-5831b07d8a7d")
 	)
 	(wire
 		(pts
@@ -11467,7 +11705,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.725 130.175) (xy 87.63 130.175)
+			(xy 85.725 130.175) (xy 94.615 130.175)
 		)
 		(stroke
 			(width 0)
@@ -11917,6 +12155,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 121.285) (xy 94.615 122.555)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b2b0a45-3af2-49e4-a195-ca00a34ab68e")
+	)
+	(wire
+		(pts
 			(xy 19.05 22.86) (xy 19.05 24.13)
 		)
 		(stroke
@@ -11984,6 +12232,16 @@
 			(type default)
 		)
 		(uuid "6ddd467c-5562-4419-b320-0566aec95175")
+	)
+	(wire
+		(pts
+			(xy 94.615 128.905) (xy 94.615 130.175)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f8b3706-4625-47dc-8323-2d6222862c35")
 	)
 	(wire
 		(pts
@@ -12164,6 +12422,16 @@
 			(type default)
 		)
 		(uuid "75312910-6d65-49da-9d7e-ba18d3858232")
+	)
+	(wire
+		(pts
+			(xy 94.615 123.825) (xy 94.615 125.095)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75428b90-6c08-4dc9-bf7d-a6fdbcd7b7b6")
 	)
 	(wire
 		(pts
@@ -12647,13 +12915,23 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 125.095) (xy 87.63 125.095)
+			(xy 85.09 125.095) (xy 94.615 125.095)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "89763c58-44d1-49e9-abf4-ea67df65ae80")
+	)
+	(wire
+		(pts
+			(xy 94.615 125.095) (xy 95.25 125.095)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89ab4a75-efce-4b6b-995b-eeb43151d97c")
 	)
 	(wire
 		(pts
@@ -12677,7 +12955,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.285 208.28) (xy 111.76 208.28)
+			(xy 121.285 208.28) (xy 117.475 208.28)
 		)
 		(stroke
 			(width 0)
@@ -12987,6 +13265,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 133.985) (xy 94.615 135.255)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9825740d-35c1-4ec7-9908-e872aaef4ce8")
+	)
+	(wire
+		(pts
 			(xy 110.49 271.78) (xy 105.41 271.78)
 		)
 		(stroke
@@ -13014,6 +13302,16 @@
 			(type default)
 		)
 		(uuid "98c89fa6-bf38-4917-8be9-fa49004b1992")
+	)
+	(wire
+		(pts
+			(xy 85.09 135.255) (xy 94.615 135.255)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9906ea67-127a-4a8f-a2d9-8bc6a122937b")
 	)
 	(wire
 		(pts
@@ -13167,7 +13465,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 137.795) (xy 87.63 137.795)
+			(xy 85.09 137.795) (xy 95.25 137.795)
 		)
 		(stroke
 			(width 0)
@@ -13487,6 +13785,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.345 133.985) (xy 94.615 133.985)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab2fdd66-6ddb-4bca-bed3-139a88feb7ca")
+	)
+	(wire
+		(pts
 			(xy 111.76 196.85) (xy 111.76 202.565)
 		)
 		(stroke
@@ -13777,6 +14085,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 43.18) (xy 374.65 43.815)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b70c4b8c-d3a9-49eb-91e5-5f52fc36dd21")
+	)
+	(wire
+		(pts
 			(xy 110.49 242.57) (xy 105.41 242.57)
 		)
 		(stroke
@@ -13844,6 +14162,16 @@
 			(type default)
 		)
 		(uuid "b9d9c390-9999-4084-a3ab-1402ded54d7f")
+	)
+	(wire
+		(pts
+			(xy 94.615 132.715) (xy 95.25 132.715)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9dfe455-80ca-42d8-afc7-a42f8e35efb8")
 	)
 	(wire
 		(pts
@@ -13987,7 +14315,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 42.545) (xy 374.65 43.815)
+			(xy 374.65 42.545) (xy 374.65 43.18)
 		)
 		(stroke
 			(width 0)
@@ -14287,6 +14615,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 130.175) (xy 95.25 130.175)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb50908c-1196-4b81-9761-3b9ce8997559")
+	)
+	(wire
+		(pts
 			(xy 115.57 41.91) (xy 119.38 41.91)
 		)
 		(stroke
@@ -14347,7 +14685,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 77.47) (xy 222.885 77.47)
+			(xy 218.44 77.47) (xy 220.98 77.47)
 		)
 		(stroke
 			(width 0)
@@ -14437,7 +14775,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 122.555) (xy 87.63 122.555)
+			(xy 85.09 122.555) (xy 94.615 122.555)
 		)
 		(stroke
 			(width 0)
@@ -14497,7 +14835,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 39.37) (xy 134.62 36.83)
+			(xy 134.62 39.37) (xy 134.62 38.1)
 		)
 		(stroke
 			(width 0)
@@ -14637,7 +14975,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 28.575) (xy 374.65 29.845)
+			(xy 374.65 28.575) (xy 374.65 29.21)
 		)
 		(stroke
 			(width 0)
@@ -14664,6 +15002,16 @@
 			(type default)
 		)
 		(uuid "d6d6b52c-7f39-43fa-b6fb-08c1aa7ce1e7")
+	)
+	(wire
+		(pts
+			(xy 377.19 27.94) (xy 377.19 29.845)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6e25e06-6364-4880-a135-e71076c2e6c1")
 	)
 	(wire
 		(pts
@@ -15037,7 +15385,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.725 132.715) (xy 87.63 132.715)
+			(xy 85.725 132.715) (xy 94.615 132.715)
 		)
 		(stroke
 			(width 0)
@@ -15267,6 +15615,16 @@
 	)
 	(wire
 		(pts
+			(xy 94.615 131.445) (xy 94.615 132.715)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebe626b6-d366-4609-932d-66aa19ec5a1d")
+	)
+	(wire
+		(pts
 			(xy 12.7 77.47) (xy 12.7 80.01)
 		)
 		(stroke
@@ -15324,6 +15682,16 @@
 			(type default)
 		)
 		(uuid "ef638a9c-28dc-4c7b-972b-6e117e8bc184")
+	)
+	(wire
+		(pts
+			(xy 379.73 27.94) (xy 379.73 29.845)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef643282-4a2f-43be-9fa1-c37efd4326a4")
 	)
 	(wire
 		(pts
@@ -15724,16 +16092,6 @@
 			(type default)
 		)
 		(uuid "ff21c135-f89b-4711-84ee-d8c615e0fba3")
-	)
-	(wire
-		(pts
-			(xy 85.09 135.255) (xy 87.63 135.255)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff474d74-9b73-49b0-af45-c2a922feb812")
 	)
 	(wire
 		(pts
@@ -28636,6 +28994,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 379.73 25.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f102b15-9a81-4148-9f34-60b798f0a824")
+		(property "Reference" "P135"
+			(at 380.365 20.32 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CP"
+			(at 379.095 20.32 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 379.73 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 379.73 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 379.73 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22f1709c-1bcd-4cbb-a1d8-656d4b51821e")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:C")
 		(at 48.26 214.63 0)
 		(unit 1)
@@ -29428,6 +29851,71 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 128.905 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1e586647-d8a9-4ca9-b219-700deacda46e")
+		(property "Reference" "P132"
+			(at 85.725 128.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1"
+			(at 85.725 129.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 128.905 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 128.905 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 128.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cbe3ed7f-0923-4f79-b97a-6389aaabb1fe")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P132")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
 		(at 383.54 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29486,6 +29974,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 372.11 29.21 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "21ffb5de-b302-47b8-92c3-4b4dfcea3461")
+		(property "Reference" "P137"
+			(at 367.03 28.575 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RESET"
+			(at 367.03 29.845 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 372.11 29.21 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 29.21 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 372.11 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c6288f5-855e-4c43-a4f3-87c52d51e81a")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P137")
 					(unit 1)
 				)
 			)
@@ -30094,6 +30647,71 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R155")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 133.985 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "340d80f9-ceee-464c-80f1-b0065ae23d0e")
+		(property "Reference" "P134"
+			(at 85.725 133.35 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "3V3"
+			(at 85.725 134.62 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 133.985 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 133.985 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff78491a-b001-41bd-a5bb-5218f627fd4c")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P134")
 					(unit 1)
 				)
 			)
@@ -30979,6 +31597,71 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C138")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 137.16 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "442c1925-d446-4818-a99b-52e2baefd138")
+		(property "Reference" "P127"
+			(at 142.875 37.465 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.875 38.735 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO"
+			(at 137.16 38.1 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 38.1 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "086c76bd-e494-4273-9638-b3f453758dec")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P127")
 					(unit 1)
 				)
 			)
@@ -33019,7 +33702,7 @@
 	)
 	(symbol
 		(lib_id "tinkerforge:CONN_01X07")
-		(at 92.71 130.175 0)
+		(at 100.33 130.175 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33028,7 +33711,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c299447-0591-4c1e-b269-66d605993c15")
 		(property "Reference" "P111"
-			(at 94.615 127.7507 0)
+			(at 102.235 127.7507 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33037,7 +33720,7 @@
 			)
 		)
 		(property "Value" "GPIO"
-			(at 94.615 130.175 0)
+			(at 102.235 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33046,7 +33729,7 @@
 			)
 		)
 		(property "Footprint" "kicad-libraries:B7B-ZR"
-			(at 94.615 132.5993 0)
+			(at 102.235 132.5993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33056,7 +33739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 130.175 0)
+			(at 100.33 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33065,7 +33748,7 @@
 			)
 		)
 		(property "Description" "Connector 01x07"
-			(at 92.71 130.175 0)
+			(at 100.33 130.175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33847,6 +34530,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 117.475 205.74 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "84d3d06c-eead-48eb-a042-6a9f3c15e52e")
+		(property "Reference" "P140"
+			(at 118.11 200.66 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "12V"
+			(at 116.84 200.66 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO"
+			(at 117.475 205.74 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 117.475 205.74 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 117.475 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0db988b0-59cc-4e9a-949c-8a937d6d8c5d")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P140")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:3V3")
 		(at 94.615 86.36 0)
 		(mirror y)
@@ -34047,6 +34795,71 @@
 			(project ""
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 126.365 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8a002f57-8741-46b9-8573-2b58a46ec75a")
+		(property "Reference" "P131"
+			(at 85.725 125.73 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0"
+			(at 85.725 127 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 126.365 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 126.365 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0458526-b515-4fc7-a1da-81cd0e523bc3")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P131")
 					(unit 1)
 				)
 			)
@@ -34331,6 +35144,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 123.825 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "907b7c9a-66de-4c04-8404-b051c47ee144")
+		(property "Reference" "P130"
+			(at 85.725 123.19 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "VCC"
+			(at 85.725 124.46 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 123.825 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 123.825 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 123.825 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71593e06-2521-45b0-b8b4-4555e89d1b03")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P130")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:R")
 		(at 210.82 221.615 0)
 		(unit 1)
@@ -34391,6 +35269,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R145")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 220.98 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9152f58d-6e24-4412-a3c9-38be7c0be6b4")
+		(property "Reference" "P139"
+			(at 221.615 69.85 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "-12V"
+			(at 220.345 69.85 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO"
+			(at 220.98 74.93 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 74.93 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 220.98 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38db19ac-2010-43cf-bc46-a7a04231d4e8")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P139")
 					(unit 1)
 				)
 			)
@@ -34459,6 +35402,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 121.285 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93980e7a-0c70-4c7c-b2ec-f47fad7ba2e4")
+		(property "Reference" "P129"
+			(at 85.725 120.65 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.725 121.92 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 121.285 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 121.285 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ad3de9d-78ee-4a77-8310-16515b8cb058")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P129")
 					(unit 1)
 				)
 			)
@@ -34591,6 +35599,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 377.19 25.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "98eb1747-3bbb-44af-8a88-5d6a071d1de7")
+		(property "Reference" "P136"
+			(at 377.825 20.32 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GND"
+			(at 376.555 20.32 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 377.19 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 377.19 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 377.19 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f4decd5-a2d6-43a7-8628-3ad737c8c9c8")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P136")
 					(unit 1)
 				)
 			)
@@ -35449,6 +36522,70 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 135.89 66.04 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4c8d633-5f41-4bc6-b01a-d8585ac0fc7f")
+		(property "Reference" "P123"
+			(at 135.255 62.0622 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+			)
+		)
+		(property "Value" "CLK"
+			(at 135.255 64.0367 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 135.89 66.04 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 66.04 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 135.89 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8959bf0-cc20-4704-9eba-43bd1c968750")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P123")
 					(unit 1)
 				)
 			)
@@ -36367,6 +37504,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 145.415 46.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b63d9b97-9a91-416b-a427-042f5da73429")
+		(property "Reference" "P126"
+			(at 144.145 43.815 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MISO"
+			(at 144.145 45.085 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 145.415 46.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 145.415 46.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 145.415 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "227b0d59-27e2-4dac-b0bb-d1df78349ad8")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:3V3")
 		(at 210.82 192.405 0)
 		(unit 1)
@@ -36627,6 +37829,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 142.875 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd719e81-1021-43c2-8722-931f364a3e28")
+		(property "Reference" "P125"
+			(at 139.7 40.64 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MOSI"
+			(at 139.7 42.545 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 142.875 44.45 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.875 44.45 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 142.875 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "621dbcc3-dcf2-494a-8c56-26063ab8c728")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P125")
 					(unit 1)
 				)
 			)
@@ -37423,6 +38690,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 139.065 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ccfad05c-6de3-49d7-b154-7ff34b8d9fda")
+		(property "Reference" "P128"
+			(at 142.875 32.385 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "12V"
+			(at 143.51 34.29 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 139.065 34.29 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.065 34.29 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 139.065 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5731da63-f1b9-461e-b006-23a53986df29")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:C")
 		(at 66.675 180.34 90)
 		(unit 1)
@@ -37814,6 +39146,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 150.495 67.31 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d2cb54e7-967b-4541-aba4-275277d5f0d5")
+		(property "Reference" "P124"
+			(at 151.13 66.675 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CS"
+			(at 151.765 68.9322 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 150.495 67.31 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 150.495 67.31 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 150.495 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2adeabe1-0979-479a-83f7-513dd50f1036")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P124")
 					(unit 1)
 				)
 			)
@@ -38546,6 +39943,71 @@
 		)
 	)
 	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 372.11 43.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0645947-47fb-4300-84d3-c58540920948")
+		(property "Reference" "P138"
+			(at 367.03 42.545 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PE_CHECK"
+			(at 367.03 43.815 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 372.11 43.18 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 43.18 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 372.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e10ec3f-b655-49c0-b6d7-eb003cdc3caf")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P138")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tinkerforge:C")
 		(at 107.315 115.57 0)
 		(unit 1)
@@ -39223,6 +40685,71 @@
 			(project "evse-v3"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 90.805 131.445 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9b892f9-ab58-469c-b2db-9fe3f2afd5e6")
+		(property "Reference" "P133"
+			(at 85.725 130.81 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2"
+			(at 85.725 132.08 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO_SMD"
+			(at 90.805 131.445 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.805 131.445 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 131.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "771fcfb1-493c-47be-949f-b2cd9454b4a4")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P133")
 					(unit 1)
 				)
 			)

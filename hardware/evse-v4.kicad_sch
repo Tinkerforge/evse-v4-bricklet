@@ -28297,7 +28297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "DNP/1nF"
 			(at 219.71 144.78 90)
 			(effects
 				(font

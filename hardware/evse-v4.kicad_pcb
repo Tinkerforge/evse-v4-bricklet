@@ -29493,7 +29493,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "DNP/1nF"
 			(at 0.05 0.375 0)
 			(layer "B.Fab")
 			(uuid "2a4d11b7-3a52-48c9-ac37-ad3ec9631d61")

@@ -26573,7 +26573,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "DNP/1nF"
+		(property "Value" "1nF"
 			(at 0.05 0.375 0)
 			(layer "B.Fab")
 			(uuid "2a4d11b7-3a52-48c9-ac37-ad3ec9631d61")
@@ -29875,6 +29875,18 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "18µ?"
+		(at 106 125.3 0)
+		(layer "Dwgs.User")
+		(uuid "05cddec8-d3d9-49a4-ad0c-cf020095a57c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "CLK"

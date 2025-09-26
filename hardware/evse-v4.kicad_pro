@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 8.0,
-          "width": 8.0
+          "drill": 0.0,
+          "height": 0.9,
+          "width": 0.9
         },
         "silk_line_width": 0.381,
         "silk_text_italic": false,
@@ -480,6 +480,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"

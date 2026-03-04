@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "EVSE Bricklet")
-		(date "2025-09-26")
-		(rev "4.3")
+		(date "2026-03-04")
+		(rev "4.4")
 		(company "Tinkerforge GmbH")
 		(comment 1 "Licensed under CERN OHL v.1.1")
 		(comment 2 "Copyright (©) 2025, B.Nordmeyer <bastian@tinkerforge.com>")
@@ -30428,7 +30428,7 @@
 			)
 		)
 	)
-	(gr_text "EVSE\n4.3"
+	(gr_text "EVSE\n4.4"
 		(at 126.725 96.95 270)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000604092c1")

@@ -9750,7 +9750,7 @@
 				)
 			)
 		)
-		(path "/00000000-0000-0000-0000-000061aa0af7")
+		(path "/00000000-0000-0000-0000-000061aa0af1")
 		(sheetname "/")
 		(sheetfile "evse-v4.kicad_sch")
 		(attr smd)
@@ -17947,6 +17947,152 @@
 			)
 			(rotate
 				(xyz 0 0 270)
+			)
+		)
+	)
+	(footprint "kicad-libraries:331221602040"
+		(layer "F.Cu")
+		(uuid "5609887d-099b-4d32-a839-cea5abd30316")
+		(at 102.65 66.75)
+		(descr "SMT EMI Contact Finger, body 6x2x4mm, https://www.we-online.com/en/components/products/datasheet/331221602040?ki")
+		(tags "SMT")
+		(property "Reference" "P1"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "7a1f60de-2bd4-4268-83b0-628283dd7b19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "PE Klammer"
+			(at 0 2.8 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d45595cd-51c0-499b-a7c4-c01a430c7140")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f45094df-0b22-4a32-93ee-ad5dcd45ce46")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b0e907c-8a39-4bc5-bb0f-8dabf691d345")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TFX" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a63cc679-edbb-4f09-9eef-389871729e31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/b90c55b0-7346-49f6-8da6-d15e49c0441c")
+		(sheetname "/")
+		(sheetfile "evse-v4.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start 0.51 -1.11)
+			(end 3.11 -1.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3c328cbb-bca6-46da-ba6d-67029636bafd")
+		)
+		(fp_line
+			(start 3.11 -1.11)
+			(end 3.11 1.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bb843c5a-7929-4e0c-809e-eb272b0ae3f3")
+		)
+		(fp_line
+			(start 3.11 1.11)
+			(end 0.51 1.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7798cb9a-9505-4a3e-b6fd-1b5b0e1802ea")
+		)
+		(fp_rect
+			(start -3 -1)
+			(end 3 1)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "886138e0-536d-400f-8cd2-6e9ec11f1b8e")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "0d1ab537-c461-4810-9e37-047ba69d9f5b")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.075)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -1.25 0)
+			(size 3 2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 99 "PE")
+			(pintype "input")
+			(uuid "8685b8a7-18a2-459b-b022-1d9d36c94d04")
+		)
+		(embedded_fonts no)
+		(model "${KICAD6_3RD_PARTY}/Connectors_TF/H_Wurth_WE-SECF_331221602040.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -28925,17 +29071,6 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 100.25 65.6)
-		(end 102.55 68.1)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "2f63c27e-c605-47ed-94e3-2607edc09e6a")
-	)
-	(gr_rect
 		(start 113.85 119.7)
 		(end 113.95 120.3)
 		(stroke
@@ -28946,17 +29081,6 @@
 		(layer "In2.Cu")
 		(net 5)
 		(uuid "a4097b57-7722-41e1-b7b4-613be8029efc")
-	)
-	(gr_rect
-		(start 100.25 65.6)
-		(end 102.55 68.1)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Paste")
-		(uuid "bf17e8ae-9425-41bd-bacf-4a8dfa76b122")
 	)
 	(gr_line
 		(start 59.95 91.55)

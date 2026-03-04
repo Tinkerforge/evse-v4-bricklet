@@ -8882,7 +8882,7 @@
 	)
 	(text "PE"
 		(exclude_from_sim no)
-		(at 21.59 205.74 0)
+		(at 21.59 206.248 0)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -9193,6 +9193,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "393f0a5e-5ead-4ef4-9671-9445b2451989")
+	)
+	(junction
+		(at 24.13 204.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bb70c2e-7a52-46dd-a04c-4c2517919eef")
 	)
 	(junction
 		(at 19.05 22.86)
@@ -12214,6 +12220,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 204.47) (xy 24.13 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46ce8780-5553-492d-843b-1e1e9e8cc1c2")
+	)
+	(wire
+		(pts
 			(xy 27.94 59.69) (xy 27.94 58.42)
 		)
 		(stroke
@@ -15204,7 +15220,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 198.12) (xy 24.13 207.01)
+			(xy 24.13 198.12) (xy 24.13 204.47)
 		)
 		(stroke
 			(width 0)
@@ -15661,6 +15677,16 @@
 			(type default)
 		)
 		(uuid "c6935c6f-7b03-46eb-a027-42e4dfe34c0f")
+	)
+	(wire
+		(pts
+			(xy 16.51 204.47) (xy 24.13 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c69702ae-9e3b-432c-901a-b47c0483d531")
 	)
 	(wire
 		(pts
@@ -38415,6 +38441,81 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "L110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 16.51 201.93 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b90c55b0-7346-49f6-8da6-d15e49c0441c")
+		(property "Reference" "P1"
+			(at 12.954 200.914 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PE Klammer"
+			(at 12.954 199.39 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "kicad-libraries:331221602040"
+			(at 16.51 201.93 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 16.51 201.93 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 16.51 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TFX" ""
+			(at 16.51 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c5597b1-1616-496e-827c-e85bcd473275")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P1")
 					(unit 1)
 				)
 			)

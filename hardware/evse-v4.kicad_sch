@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "EVSE Bricklet")
-		(date "2026-03-04")
+		(date "2026-03-11")
 		(rev "4.4")
 		(company "Tinkerforge GmbH")
 		(comment 1 "Licensed under CERN OHL v.1.1")
@@ -8967,16 +8967,6 @@
 			(justify left bottom)
 		)
 		(uuid "f11502aa-fd57-40ce-bd8c-e97c1efbf9b5")
-	)
-	(text "VCPI1 und VCPI2 getauscht!!!!!!!!!!!!!"
-		(exclude_from_sim no)
-		(at 314.325 3.175 0)
-		(effects
-			(font
-				(size 6 6)
-			)
-		)
-		(uuid "fba71184-d67b-46cb-ae85-d7cfec6d1a9e")
 	)
 	(junction
 		(at 294.64 105.41)

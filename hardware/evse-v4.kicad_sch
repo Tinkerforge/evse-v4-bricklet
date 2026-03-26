@@ -29727,8 +29727,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
-			(at 51.435 216.535 90)
+		(property "Value" "100nF/275VAC 890324025017"
+			(at 52.07 225.044 90)
 			(effects
 				(font
 					(size 1 1)

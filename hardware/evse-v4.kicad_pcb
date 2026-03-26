@@ -16061,7 +16061,7 @@
 				)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "100nF/275VAC 890324025017"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")

@@ -47,10 +47,11 @@
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0003fee8_022aa0a3",
+    "visible_layers": "00000000_00000000_0003fee8_02aaa0a2",
     "zone_display_mode": 0
   },
   "git": {
+    "integration_disabled": false,
     "repo_password": "",
     "repo_type": "",
     "repo_username": "",

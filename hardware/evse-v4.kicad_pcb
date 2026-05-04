@@ -29174,6 +29174,17 @@
 		(layer "Dwgs.User")
 		(uuid "1b476e56-849e-40c0-9ff4-1525dfe1422e")
 	)
+	(gr_rect
+		(start 65.85 52.05)
+		(end 129.35 168.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "2c2f2b9c-8332-4c8b-a050-f2e93f69df90")
+	)
 	(gr_line
 		(start 76.85 91.55)
 		(end 76.85 131.05)
@@ -31250,6 +31261,18 @@
 				(size 0.25 0.25)
 				(thickness 0.0625)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "63.5mm x 116.5mm"
+		(at 121.45 168.25 0)
+		(layer "Dwgs.User")
+		(uuid "a4d618ab-07f6-49ef-aa7f-cf8c0d1d8d0a")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
 			)
 			(justify left bottom)
 		)
@@ -53688,13 +53711,13 @@
 			"b7bdf478-5c5b-4785-8031-82b85284aa4d" "bb633cbb-9437-429d-8168-dd420de816a2"
 			"c14b8670-b320-4ea5-aad5-f23820557344" "c23d66e1-5cae-4fbd-8545-f3bba6c1a2ce"
 			"c4aaf0f6-daaa-45f8-a470-f92a90ec0bd3" "c8cfda80-ede0-42f5-a287-2f846be1a2a4"
-			"ca19d0da-cf5f-405f-b2cb-6a5a58a8216a" "cc6032e3-63d7-44d3-8f99-ccc01b9adc81"
-			"cd541513-342e-4891-b16c-eb7d61c83903" "d50c4391-a913-407f-9a6c-2dfef9c7b5f8"
-			"d56ddbe3-766e-4983-a3e5-4921c58b3ef0" "d9dfe8ce-3730-488b-ae44-9e842d4bab6b"
-			"dd15957a-b989-4b28-9f2d-32e8eb39bca2" "e24344a9-f21b-4add-b025-8f4681f9d585"
-			"e68d5b11-0e83-436d-aa4c-2524158f0cd1" "e87f57d1-d4df-4050-af5e-1269b51441a1"
-			"f2b36368-d9a1-41e9-8dca-cb2a7f318c25" "f323311a-bbaa-4f3a-8af6-d0e9e8f09570"
-			"f9661554-076e-4a63-825c-cc9ee04d2144" "fface254-2adf-42fc-9ae9-8222e8b97fc9"
+			"ca19d0da-cf5f-405f-b2cb-6a5a58a8216a" "cd541513-342e-4891-b16c-eb7d61c83903"
+			"d50c4391-a913-407f-9a6c-2dfef9c7b5f8" "d56ddbe3-766e-4983-a3e5-4921c58b3ef0"
+			"d9dfe8ce-3730-488b-ae44-9e842d4bab6b" "dd15957a-b989-4b28-9f2d-32e8eb39bca2"
+			"e24344a9-f21b-4add-b025-8f4681f9d585" "e68d5b11-0e83-436d-aa4c-2524158f0cd1"
+			"e87f57d1-d4df-4050-af5e-1269b51441a1" "f2b36368-d9a1-41e9-8dca-cb2a7f318c25"
+			"f323311a-bbaa-4f3a-8af6-d0e9e8f09570" "f9661554-076e-4a63-825c-cc9ee04d2144"
+			"fface254-2adf-42fc-9ae9-8222e8b97fc9"
 		)
 	)
 	(embedded_fonts no)

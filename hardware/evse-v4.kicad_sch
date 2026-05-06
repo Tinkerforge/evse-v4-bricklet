@@ -6,11 +6,11 @@
 	(paper "A3")
 	(title_block
 		(title "EVSE Bricklet")
-		(date "2026-03-11")
+		(date "2026-05-06")
 		(rev "4.4")
 		(company "Tinkerforge GmbH")
 		(comment 1 "Licensed under CERN OHL v.1.1")
-		(comment 2 "Copyright (©) 2025, B.Nordmeyer <bastian@tinkerforge.com>")
+		(comment 2 "Copyright (©) 2026, B.Nordmeyer <bastian@tinkerforge.com>")
 	)
 	(lib_symbols
 		(symbol "tinkerforge:3V3"
@@ -8858,7 +8858,7 @@
 		)
 		(uuid "d2e78017-7088-4e56-9294-b84164979b53")
 	)
-	(text "Copyright Tinkerforge GmbH 2025.\nThis documentation describes Open Hardware and is licensed under the\nCERN OHL v. 1.1.\nYou may redistribute and modify this documentation under the terms of the\nCERN OHL v.1.1. (http://ohwr.org/cernohl). This documentation is distributed\nWITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN OHL v.1.1 for applicable\nconditions"
+	(text "Copyright Tinkerforge GmbH 2026.\nThis documentation describes Open Hardware and is licensed under the\nCERN OHL v. 1.1.\nYou may redistribute and modify this documentation under the terms of the\nCERN OHL v.1.1. (http://ohwr.org/cernohl). This documentation is distributed\nWITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN OHL v.1.1 for applicable\nconditions"
 		(exclude_from_sim no)
 		(at 307.34 249.555 0)
 		(effects
@@ -19525,7 +19525,7 @@
 			(uuid "e33c23c8-2d4a-4216-b614-1d16f1ac089f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "L101")
 					(unit 1)
@@ -19592,7 +19592,7 @@
 			(uuid "6f31c0df-a4f9-402f-9ae8-460370a06489")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "J101")
 					(unit 1)
@@ -19657,7 +19657,7 @@
 			(uuid "6c7c7896-f465-4f20-bd61-d01a47b113e2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0107")
 					(unit 1)
@@ -19724,7 +19724,7 @@
 			(uuid "23461a81-824f-4fb0-b290-5e929ba55f19")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D103")
 					(unit 1)
@@ -19809,7 +19809,7 @@
 			(uuid "8784f40f-4ca1-4a1d-b583-0a795a89789a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "RP101")
 					(unit 1)
@@ -19878,7 +19878,7 @@
 			(uuid "f77d8852-d67b-4b5a-8ae4-db3e822a4fe8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C101")
 					(unit 1)
@@ -19943,7 +19943,7 @@
 			(uuid "9bef3189-4aea-4fd8-a771-10e90830c9a8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0102")
 					(unit 1)
@@ -20008,7 +20008,7 @@
 			(uuid "50fe73a7-cd8a-4072-940b-600a8d7ed4c8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0105")
 					(unit 1)
@@ -20076,7 +20076,7 @@
 			(uuid "82200b22-7d19-42ed-b6a4-751a26ce1c5d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C113")
 					(unit 1)
@@ -20144,7 +20144,7 @@
 			(uuid "687647ae-2c98-46ab-8fb3-f2d42379d026")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C112")
 					(unit 1)
@@ -20210,7 +20210,7 @@
 			(uuid "38e5974e-135d-43dd-9603-df0f08a79ca3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R107")
 					(unit 1)
@@ -20274,7 +20274,7 @@
 			(uuid "a3c746dd-2280-4651-bc38-60aad3377cb7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0106")
 					(unit 1)
@@ -20341,7 +20341,7 @@
 			(uuid "2911584c-c1a7-4cf8-845d-5e4512ad46bb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R124")
 					(unit 1)
@@ -20407,7 +20407,7 @@
 			(uuid "912fde3d-a14a-42f6-a174-a39e9f50d7c6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R108")
 					(unit 1)
@@ -20473,7 +20473,7 @@
 			(uuid "07423cf6-1953-41ec-80e3-b823e924c60f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R109")
 					(unit 1)
@@ -20539,7 +20539,7 @@
 			(uuid "3e2c90f3-db64-40db-b297-faaecc44ddb8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R110")
 					(unit 1)
@@ -20615,7 +20615,7 @@
 			(uuid "c1d67097-7b96-4975-8868-9014f1c687af")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P105")
 					(unit 1)
@@ -20681,7 +20681,7 @@
 			(uuid "2f039e1f-e67d-463c-ae66-2e4a33d84163")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R111")
 					(unit 1)
@@ -20753,7 +20753,7 @@
 			(uuid "97df2c67-6e50-4c75-ab83-bb3796a26d40")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "Q101")
 					(unit 1)
@@ -20817,7 +20817,7 @@
 			(uuid "d39d4578-f924-4bdf-833e-c127c0f4fabb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0169")
 					(unit 1)
@@ -20883,7 +20883,7 @@
 			(uuid "dd0bc2ab-c8f8-4570-b202-f2b1b17de5df")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R112")
 					(unit 1)
@@ -20965,7 +20965,7 @@
 			(uuid "367c78a5-7306-41d2-b9a3-40c977913a71")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U108")
 					(unit 1)
@@ -21029,7 +21029,7 @@
 			(uuid "9306890d-bc91-4b2e-b011-84e72404cfa8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0160")
 					(unit 1)
@@ -21096,7 +21096,7 @@
 			(uuid "5316c0cc-c5c2-46ef-a6cb-bcc951e13b6c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R114")
 					(unit 1)
@@ -21162,7 +21162,7 @@
 			(uuid "3436eab7-ab0f-4da4-90ed-650e2f99a16c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R115")
 					(unit 1)
@@ -21226,7 +21226,7 @@
 			(uuid "9d0ef160-1b83-4307-9215-240d45b8d085")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0163")
 					(unit 1)
@@ -21295,7 +21295,7 @@
 			(uuid "52848d8f-8e0e-4123-a4ec-09f5346ce555")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D107")
 					(unit 1)
@@ -21364,7 +21364,7 @@
 			(uuid "da968ccf-29e6-4385-84a5-b0548b420043")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D105")
 					(unit 1)
@@ -21432,7 +21432,7 @@
 			(uuid "df6ef75b-161d-497c-a54f-6b24b7167a89")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C106")
 					(unit 1)
@@ -21500,7 +21500,7 @@
 			(uuid "d4c93daa-1021-4f0c-af45-0eedfb367c46")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C103")
 					(unit 1)
@@ -21564,7 +21564,7 @@
 			(uuid "1513743d-f39e-4d4a-af6d-a0dd2bed2d7b")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0109")
 					(unit 1)
@@ -21628,7 +21628,7 @@
 			(uuid "d78226c5-b4de-4eee-b46a-d0f1593fa8e9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0156")
 					(unit 1)
@@ -21697,7 +21697,7 @@
 			(uuid "b725e995-d1d2-448b-b6e5-e6ca8dbd0c9c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D110")
 					(unit 1)
@@ -21763,7 +21763,7 @@
 			(uuid "37b294d8-e07c-411e-b5f6-cd4dea294e5d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R120")
 					(unit 1)
@@ -21829,7 +21829,7 @@
 			(uuid "d4c84d39-3cfa-42a1-afe5-16a60bd2076a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R121")
 					(unit 1)
@@ -21892,7 +21892,7 @@
 			(uuid "dab3318e-283c-4f09-bf59-2a6535d45707")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0174")
 					(unit 1)
@@ -21958,7 +21958,7 @@
 			(uuid "60448f21-9c1c-451d-9904-96f9e6bbc8ff")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R126")
 					(unit 1)
@@ -22024,7 +22024,7 @@
 			(uuid "9f67337d-f277-44e8-864d-2566cbf57474")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R127")
 					(unit 1)
@@ -22090,7 +22090,7 @@
 			(uuid "68a25a10-9ed2-470c-8b89-b517496d26f9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R125")
 					(unit 1)
@@ -22171,7 +22171,7 @@
 			(uuid "1c1b074f-e08f-4dd9-a9f0-a927c0d391d5")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P103")
 					(unit 1)
@@ -22242,7 +22242,7 @@
 			(uuid "429d3143-1e77-4ccf-a94a-5f176c137d13")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "Q102")
 					(unit 1)
@@ -22305,7 +22305,7 @@
 			(uuid "20a96c56-0388-456c-bc61-4c013b888a3f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0114")
 					(unit 1)
@@ -22371,7 +22371,7 @@
 			(uuid "4e52d68d-bdf7-4c16-b58d-d50e47b7aacf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R141")
 					(unit 1)
@@ -22435,7 +22435,7 @@
 			(uuid "f25390db-0c1e-45bc-ab0e-3e1afe5a1e17")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0199")
 					(unit 1)
@@ -22501,7 +22501,7 @@
 			(uuid "33cce192-31cf-4e98-a3ee-43f2d4ef5ff0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "F101")
 					(unit 1)
@@ -22564,7 +22564,7 @@
 			(uuid "8edf72fc-4ec7-4ca2-871d-2034d7e416ea")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0161")
 					(unit 1)
@@ -22632,7 +22632,7 @@
 			(uuid "3da3a4a2-3bfe-40d8-b7f2-047b4f5b1a20")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R128")
 					(unit 1)
@@ -22697,7 +22697,7 @@
 			(uuid "4b9709d1-6d20-479c-9597-03cf81d211be")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0115")
 					(unit 1)
@@ -22761,7 +22761,7 @@
 			(uuid "143d16a8-fd08-4e9d-8722-26adaec1757c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0143")
 					(unit 1)
@@ -22842,7 +22842,7 @@
 			(uuid "748ce55d-874b-4b6d-b1e1-961888453cf3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P108")
 					(unit 1)
@@ -22906,7 +22906,7 @@
 			(uuid "42846060-6c07-4cd1-8c4a-4db18b3818c2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0167")
 					(unit 1)
@@ -22974,7 +22974,7 @@
 			(uuid "d66631d0-ca16-4bda-81ef-434136e0db08")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C107")
 					(unit 1)
@@ -23040,7 +23040,7 @@
 			(uuid "a89e7407-4300-4256-8e68-941d8ead43d0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R129")
 					(unit 1)
@@ -23106,7 +23106,7 @@
 			(uuid "fa4eaf08-45a0-48e2-9735-6984a9db64ac")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R130")
 					(unit 1)
@@ -23174,7 +23174,7 @@
 			(uuid "37aa0d7f-7a5c-4df7-be71-68ac3fc009db")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C105")
 					(unit 1)
@@ -23242,7 +23242,7 @@
 			(uuid "9a5514dd-1c5f-42fc-bc72-6d361852bd94")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C124")
 					(unit 1)
@@ -23312,7 +23312,7 @@
 			(uuid "e0fe4b6d-591c-408e-ba61-1ab4b5f3010f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D102")
 					(unit 1)
@@ -23379,7 +23379,7 @@
 			(uuid "c386d20c-176e-43d4-ad7f-966e004a59c8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R131")
 					(unit 1)
@@ -23446,7 +23446,7 @@
 			(uuid "810685ea-0306-4d10-aed3-f3a10cf47dec")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R132")
 					(unit 1)
@@ -23510,7 +23510,7 @@
 			(uuid "cb7944a8-29ee-47a1-8088-407e9ac44b78")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0196")
 					(unit 1)
@@ -23575,7 +23575,7 @@
 			(uuid "61decfd3-0c3c-43ca-bab7-678a72b5c3b7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0197")
 					(unit 1)
@@ -23649,7 +23649,7 @@
 			(uuid "3fb85080-11f1-4ac2-a87b-ef6fc964ef72")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P110")
 					(unit 1)
@@ -23715,7 +23715,7 @@
 			(uuid "3f86707b-8402-452a-80b4-667a15f3fd9c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R138")
 					(unit 1)
@@ -23781,7 +23781,7 @@
 			(uuid "005266f1-02a9-43a6-b1ba-a11bf7c89b45")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0179")
 					(unit 1)
@@ -23988,7 +23988,7 @@
 			(uuid "9f349852-ec15-41c9-986b-6f07f52ddb1e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U101")
 					(unit 2)
@@ -24195,7 +24195,7 @@
 			(uuid "ae43f1b3-aa60-4ab7-a747-6e767a61a1e2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U101")
 					(unit 1)
@@ -24402,7 +24402,7 @@
 			(uuid "cddadb6c-7549-420c-af56-e0726d090e53")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U101")
 					(unit 4)
@@ -24609,7 +24609,7 @@
 			(uuid "2b70458a-63ec-4056-9690-44ff75837b19")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U101")
 					(unit 3)
@@ -24816,7 +24816,7 @@
 			(uuid "800b7ccf-098e-4f02-97b6-05b0ff9854ed")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U101")
 					(unit 5)
@@ -24885,7 +24885,7 @@
 			(uuid "4773e148-1667-4297-bb48-bb57f275e0ca")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C102")
 					(unit 1)
@@ -24954,7 +24954,7 @@
 			(uuid "8e6e33e9-4569-4313-9d05-221d22c8248d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C130")
 					(unit 1)
@@ -25023,7 +25023,7 @@
 			(uuid "9bbd56d2-3d46-4b31-bdde-252ee31cbb4e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C131")
 					(unit 1)
@@ -25092,7 +25092,7 @@
 			(uuid "29a809b5-68d7-4839-b0a9-c17b15e0dd5b")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C127")
 					(unit 1)
@@ -25158,7 +25158,7 @@
 			(uuid "48a5bca5-3fdb-41f6-91a9-4173330b9be0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0202")
 					(unit 1)
@@ -25224,7 +25224,7 @@
 			(uuid "f55855bf-77c2-44d8-8a7f-589e955b46d1")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0203")
 					(unit 1)
@@ -25296,7 +25296,7 @@
 			(uuid "a70f098d-0783-4ff2-8c90-3aad6c8da4d9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "L104")
 					(unit 1)
@@ -25368,7 +25368,7 @@
 			(uuid "41120a8a-91ca-49c0-bc8b-4bb0bc4d1234")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "L104")
 					(unit 2)
@@ -25434,7 +25434,7 @@
 			(uuid "90de6de0-6928-40f1-b78a-a091b9748375")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R137")
 					(unit 1)
@@ -25536,7 +25536,7 @@
 			(uuid "b7358d2c-3f32-4e92-8ef7-cd48c2c8a30c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U113")
 					(unit 1)
@@ -25605,7 +25605,7 @@
 			(uuid "327c42b6-5e54-49a3-af9f-d9895651816c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C132")
 					(unit 1)
@@ -25671,7 +25671,7 @@
 			(uuid "570c4595-e403-4e88-9030-084b876bf3ae")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0204")
 					(unit 1)
@@ -25737,7 +25737,7 @@
 			(uuid "fa395517-431d-4daf-82fe-a4e85abc2d4a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R134")
 					(unit 1)
@@ -25803,7 +25803,7 @@
 			(uuid "5d983720-af27-4ae9-b7db-e439d70a3fb6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R135")
 					(unit 1)
@@ -25869,7 +25869,7 @@
 			(uuid "452fadd1-5bfa-4d41-8c81-20ede4b7f82f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R136")
 					(unit 1)
@@ -25935,7 +25935,7 @@
 			(uuid "d38ccf1c-45fd-4610-b6c6-24db7882f0cb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0205")
 					(unit 1)
@@ -26001,7 +26001,7 @@
 			(uuid "66e0aba9-f5bb-43a9-9e28-fa56092a208e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D106")
 					(unit 1)
@@ -26067,7 +26067,7 @@
 			(uuid "6944c6c8-74f9-43da-abb7-f01a8f5ee0dc")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D111")
 					(unit 1)
@@ -26151,7 +26151,7 @@
 			(uuid "42ab501e-045d-4512-8854-a31df0e692d1")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "RP102")
 					(unit 1)
@@ -26220,7 +26220,7 @@
 			(uuid "59b9c6e9-d177-4a54-9a1d-4d2f5d09ad9a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C128")
 					(unit 1)
@@ -26289,7 +26289,7 @@
 			(uuid "5224303e-afa3-42bc-a516-65aa5ed4cff5")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C129")
 					(unit 1)
@@ -26355,7 +26355,7 @@
 			(uuid "16cfea84-0a22-489c-8fde-e3dff49cc2ce")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0206")
 					(unit 1)
@@ -26424,7 +26424,7 @@
 			(uuid "977f883e-0d9d-46e4-beaf-53815de9acfd")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "X101")
 					(unit 1)
@@ -26490,7 +26490,7 @@
 			(uuid "3ccf2cbf-76df-452a-b6fb-888598ba98ef")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0207")
 					(unit 1)
@@ -26556,7 +26556,7 @@
 			(uuid "be6c14ee-c2bc-4b6d-a539-44674c67ec65")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0208")
 					(unit 1)
@@ -26622,7 +26622,7 @@
 			(uuid "0725a865-b8f8-4e88-a804-42813cf7d8cf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0210")
 					(unit 1)
@@ -26688,7 +26688,7 @@
 			(uuid "545140a3-a5a3-4f3e-bd28-88031b7cca82")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0211")
 					(unit 1)
@@ -26751,7 +26751,7 @@
 			(uuid "32a6f29c-5860-4370-bc5b-10932339ecb4")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0212")
 					(unit 1)
@@ -26814,7 +26814,7 @@
 			(uuid "d9736bad-1202-49e4-aaad-1f5735711026")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0213")
 					(unit 1)
@@ -26879,7 +26879,7 @@
 			(uuid "3e9abec2-36c3-40cc-8918-116e6af8557d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0214")
 					(unit 1)
@@ -26943,7 +26943,7 @@
 			(uuid "480acef1-24ee-4de0-ad90-b0d421c52a65")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0216")
 					(unit 1)
@@ -27008,7 +27008,7 @@
 			(uuid "00568488-1270-43fc-b57f-f9db0f6f4dc6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0217")
 					(unit 1)
@@ -27074,7 +27074,7 @@
 			(uuid "b435d27d-4d77-42fb-96d8-7fde46b6f7bf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R102")
 					(unit 1)
@@ -27140,7 +27140,7 @@
 			(uuid "3ad574cb-efc7-48f3-8020-cd16485a7ac0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R104")
 					(unit 1)
@@ -27204,7 +27204,7 @@
 			(uuid "92bc0b97-0fea-4dab-8d45-f1bcd1594b28")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0111")
 					(unit 1)
@@ -27268,7 +27268,7 @@
 			(uuid "f1d9ffec-e5c0-4d1f-9ed8-cd4a886a8b6c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0119")
 					(unit 1)
@@ -27332,7 +27332,7 @@
 			(uuid "88691264-7eff-496c-b541-5da6dcb5348a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0121")
 					(unit 1)
@@ -27396,7 +27396,7 @@
 			(uuid "2193e28d-ed3b-42c4-a73e-c1206bc8e9f7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0122")
 					(unit 1)
@@ -27460,7 +27460,7 @@
 			(uuid "2b48bbcc-bc6b-4e34-90a3-9016a5419205")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0123")
 					(unit 1)
@@ -27524,7 +27524,7 @@
 			(uuid "9ca8d3f1-1ae4-4947-847e-be4278eb5e83")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0136")
 					(unit 1)
@@ -27590,7 +27590,7 @@
 			(uuid "e8e0b917-602a-41ec-bb2b-62f50f6335a7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R122")
 					(unit 1)
@@ -27654,7 +27654,7 @@
 			(uuid "e6719c4b-8d7d-441f-8f89-e52e51d1a072")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0138")
 					(unit 1)
@@ -27717,7 +27717,7 @@
 			(uuid "acbca47e-f0a9-421b-90d5-0f3285fa6de8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0139")
 					(unit 1)
@@ -27780,7 +27780,7 @@
 			(uuid "c57d41bb-995b-48fd-93a3-aa5d33829772")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0140")
 					(unit 1)
@@ -27843,7 +27843,7 @@
 			(uuid "3dd7f00f-fd8f-4012-b649-7a62624312cf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0144")
 					(unit 1)
@@ -27928,7 +27928,7 @@
 			(uuid "0c6494e3-d0e7-4e0f-a79c-21b53afa36b4")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P112")
 					(unit 1)
@@ -27992,7 +27992,7 @@
 			(uuid "3f935ea9-57a8-4112-b21d-b7779eb15a92")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0128")
 					(unit 1)
@@ -28057,7 +28057,7 @@
 			(uuid "ef383b32-cf9d-491f-83af-868aa122d60b")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0131")
 					(unit 1)
@@ -28121,7 +28121,7 @@
 			(uuid "c4b48b80-2188-4e48-ace2-814557bad72d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0132")
 					(unit 1)
@@ -28185,7 +28185,7 @@
 			(uuid "5eeeb0cc-e01a-480e-b575-06c50b092e7c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0166")
 					(unit 1)
@@ -28249,7 +28249,7 @@
 			(uuid "492d91da-8661-4eb5-8399-4edc5f5107ff")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0176")
 					(unit 1)
@@ -28315,7 +28315,7 @@
 			(uuid "1869edeb-9e4f-4836-a356-940e404067e3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0178")
 					(unit 1)
@@ -28381,7 +28381,7 @@
 			(uuid "f9272973-fcd4-4d10-b983-cce7163560e9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0181")
 					(unit 1)
@@ -28466,7 +28466,7 @@
 			(uuid "e6aad943-5d1e-4aa1-80e9-4e59b77772eb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "RP103")
 					(unit 1)
@@ -28530,7 +28530,7 @@
 			(uuid "dfb5feac-016a-4baa-bcd6-db899b44a4c9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0182")
 					(unit 1)
@@ -28593,7 +28593,7 @@
 			(uuid "dbfb1a44-48c1-4a28-a96e-39953d973cac")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0183")
 					(unit 1)
@@ -28659,7 +28659,7 @@
 			(uuid "89417dc6-b316-4673-aa0a-95d872e500b6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0185")
 					(unit 1)
@@ -28858,7 +28858,7 @@
 			(uuid "f5e310b9-ceb1-47ba-bb33-938a0008541a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R143")
 					(unit 1)
@@ -28893,7 +28893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kicad-libraries:C0603F"
+		(property "Footprint" "kicad-libraries:C0805"
 			(at 224.79 140.97 0)
 			(effects
 				(font
@@ -29052,7 +29052,7 @@
 			(uuid "2bc2d6a0-8710-4340-9b2f-5ccf83c691fb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0127")
 					(unit 1)
@@ -29118,7 +29118,7 @@
 			(uuid "9bf62d50-2e68-4763-ab3b-eefbff718976")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P8")
 					(unit 1)
@@ -29183,7 +29183,7 @@
 			(uuid "28f4b148-f49d-4510-a37a-755b071d7fbd")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P6")
 					(unit 1)
@@ -29310,7 +29310,7 @@
 			(uuid "91b3a749-62c3-4eb4-aec8-9e43dbaf0f29")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0117")
 					(unit 1)
@@ -29505,7 +29505,7 @@
 			(uuid "a4536284-c89f-44d3-b488-2391fa5f5231")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P117")
 					(unit 1)
@@ -29568,7 +29568,7 @@
 			(uuid "3a6270bf-91c9-4d70-be90-61d34242a9a9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0146")
 					(unit 1)
@@ -29636,7 +29636,7 @@
 			(uuid "bf9e859a-0ef8-4bc8-a199-2517bc236282")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R119")
 					(unit 1)
@@ -29769,7 +29769,7 @@
 			(uuid "96f12951-2e8d-4d37-b334-38002a1f4ab6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C5")
 					(unit 1)
@@ -29970,7 +29970,7 @@
 			(uuid "b141423f-2754-46c0-9037-01a17db83f8a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C117")
 					(unit 1)
@@ -30035,7 +30035,7 @@
 			(uuid "543f200b-c183-4747-8adb-dbc89a07d2b9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P14")
 					(unit 1)
@@ -30100,7 +30100,7 @@
 			(uuid "0f295bd2-a171-4895-bd9b-3e64c2347b39")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P4")
 					(unit 1)
@@ -30166,7 +30166,7 @@
 			(uuid "3ebd2bfd-8f9f-4a26-8932-0efd9402dc4e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R101")
 					(unit 1)
@@ -30230,7 +30230,7 @@
 			(uuid "2e67a5bc-471b-45f7-993a-491262f86de7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0184")
 					(unit 1)
@@ -30361,7 +30361,7 @@
 			(uuid "7eb0dad1-610d-4dd0-92ab-4c4e17808443")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R151")
 					(unit 1)
@@ -30494,7 +30494,7 @@
 			(uuid "14712be6-d657-4441-b15c-13f98f2894af")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D109")
 					(unit 1)
@@ -30688,7 +30688,7 @@
 			(uuid "9d063698-0360-419b-99c0-ac288651a3c3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P37")
 					(unit 1)
@@ -30819,7 +30819,7 @@
 			(uuid "820940c8-dba2-411a-8e82-89ef2126f102")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0147")
 					(unit 1)
@@ -30906,7 +30906,7 @@
 			(uuid "95cc481c-b0a2-436e-a131-18a38651e44c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "SW101")
 					(unit 1)
@@ -30972,7 +30972,7 @@
 			(uuid "f2ca5dca-c14b-4f19-9def-9ab7eb985546")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P11")
 					(unit 1)
@@ -31100,7 +31100,7 @@
 			(uuid "e56c873d-c0d1-4469-ab34-c302978f86aa")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P115")
 					(unit 1)
@@ -31163,7 +31163,7 @@
 			(uuid "1f1f753a-5f3e-4269-b5de-71def130ac22")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0175")
 					(unit 1)
@@ -31443,7 +31443,7 @@
 			(uuid "282512da-a88f-430c-9567-092ef2786668")
 		)
 		(instances
-			(project ""
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P120")
 					(unit 1)
@@ -31520,7 +31520,7 @@
 			(uuid "45f43730-3049-44db-843c-56d4c36245bd")
 		)
 		(instances
-			(project ""
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U109")
 					(unit 1)
@@ -31653,7 +31653,7 @@
 			(uuid "c46d9bb8-633c-4590-b557-d5185680e477")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0133")
 					(unit 1)
@@ -31805,7 +31805,7 @@
 			(uuid "d0348431-a575-4090-8641-02a13d1b7ca0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R144")
 					(unit 1)
@@ -32066,7 +32066,7 @@
 			(uuid "301b0ab2-fca5-407e-af8e-aabeb3da2241")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0165")
 					(unit 1)
@@ -32271,7 +32271,7 @@
 			(uuid "016c7e4b-fef2-4e4e-8e29-64bdb765e929")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C135")
 					(unit 1)
@@ -32335,7 +32335,7 @@
 			(uuid "0ee63b40-32f7-4f1d-a109-cd75ba08f137")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0142")
 					(unit 1)
@@ -32689,7 +32689,7 @@
 			(uuid "5e4217f9-f584-488d-89ac-f86655d8fb58")
 		)
 		(instances
-			(project ""
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P106")
 					(unit 1)
@@ -32824,7 +32824,7 @@
 			(uuid "6e505717-21b5-472a-a4c3-55b4e365001c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D108")
 					(unit 1)
@@ -32957,7 +32957,7 @@
 			(uuid "87b494a5-799c-4951-89dd-969da0a7ad0d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0125")
 					(unit 1)
@@ -33025,7 +33025,7 @@
 			(uuid "86b2dfe7-b6cf-400b-b8a1-6659888205f2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C134")
 					(unit 1)
@@ -33221,7 +33221,7 @@
 			(uuid "3c46a42e-c10d-444d-9cd8-5cfd73e2f060")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0148")
 					(unit 1)
@@ -33287,7 +33287,7 @@
 			(uuid "2497f10b-1b74-4464-84f2-947d8abe1273")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P10")
 					(unit 1)
@@ -33352,7 +33352,7 @@
 			(uuid "3f11c6b4-61ea-4f2a-ba9a-35f69be5b6c9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P5")
 					(unit 1)
@@ -33417,7 +33417,7 @@
 			(uuid "079933e2-410b-45bb-9fb9-0e8e3a5d6233")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P38")
 					(unit 1)
@@ -33615,7 +33615,7 @@
 			(uuid "9d39f48f-e30f-4de3-ac7e-81c9dd82e3b2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R105")
 					(unit 1)
@@ -33694,7 +33694,7 @@
 			(uuid "86dd57fd-ca20-450e-8ac7-b9234dc492d2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U107")
 					(unit 1)
@@ -33888,7 +33888,7 @@
 			(uuid "5b45a0d1-17b2-4ac4-8226-6fa3df7a7dc6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P116")
 					(unit 1)
@@ -34230,7 +34230,7 @@
 			(uuid "7f5f4260-71cd-4c9a-82a8-1124a67312a1")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U103")
 					(unit 1)
@@ -34302,7 +34302,7 @@
 			(uuid "1ee41b9b-3c79-49ea-96f3-9abb1645f1e7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "Q104")
 					(unit 1)
@@ -34496,7 +34496,7 @@
 			(uuid "90d71652-3e20-4fda-a809-019be30500e3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R118")
 					(unit 1)
@@ -34561,7 +34561,7 @@
 			(uuid "ebbda2f9-ad86-44ae-b163-d248de08a983")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P39")
 					(unit 1)
@@ -34690,7 +34690,7 @@
 			(uuid "f8b53baf-3c2f-4308-b26e-25f3cbc1d0d5")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R142")
 					(unit 1)
@@ -34776,7 +34776,7 @@
 			(uuid "9ebf3e68-3808-472c-a926-b62f701a2ff1")
 		)
 		(instances
-			(project ""
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P111")
 					(unit 1)
@@ -34860,7 +34860,7 @@
 			(uuid "7cb6d98f-ba2b-42c0-a308-d6665acdda92")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "RP104")
 					(unit 1)
@@ -35129,7 +35129,7 @@
 			(uuid "58aac413-dccb-4c23-9ad9-779889ca03a4")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P104")
 					(unit 1)
@@ -35195,7 +35195,7 @@
 			(uuid "17045044-b852-4a55-b38c-47ea4f5c58a6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "L105")
 					(unit 1)
@@ -35325,7 +35325,7 @@
 			(uuid "65f98f1b-8df8-4d60-a400-b98d096413cf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R1")
 					(unit 1)
@@ -35389,7 +35389,7 @@
 			(uuid "4b0e4b35-e2e2-46d3-8242-2472006381b9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0155")
 					(unit 1)
@@ -35718,7 +35718,7 @@
 			(uuid "df513c78-0542-468c-beee-fbd3b507dea0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0157")
 					(unit 1)
@@ -35784,7 +35784,7 @@
 			(uuid "cecb8b65-4c04-4796-b6b7-e108cc3d35dc")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R147")
 					(unit 1)
@@ -35915,7 +35915,7 @@
 			(uuid "97260655-8cf4-40b2-8681-325b204b4594")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P7")
 					(unit 1)
@@ -35997,7 +35997,7 @@
 			(uuid "19689ecf-74f2-4017-9f44-c8e94be11a19")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U105")
 					(unit 1)
@@ -36063,7 +36063,7 @@
 			(uuid "867580c9-da8d-414e-a333-4ed0d9b45db0")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R139")
 					(unit 1)
@@ -36127,7 +36127,7 @@
 			(uuid "4c2a336f-54d8-4515-a773-4338a5000bca")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0173")
 					(unit 1)
@@ -36258,7 +36258,7 @@
 			(uuid "ca3332f5-91c6-4b8d-a100-5a54b0f717d3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R145")
 					(unit 1)
@@ -36326,7 +36326,7 @@
 			(uuid "3fecfbcd-20c5-4a34-a3a1-22025363bdb2")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C119")
 					(unit 1)
@@ -36457,7 +36457,7 @@
 			(uuid "e99c0e0e-6ab2-4c19-9a37-ca5f334ea775")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R150")
 					(unit 1)
@@ -36523,7 +36523,7 @@
 			(uuid "8b5e114d-48a3-462c-bbdc-383803ff1593")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R116")
 					(unit 1)
@@ -36586,7 +36586,7 @@
 			(uuid "898e6fc7-d3d0-4a20-8501-5a5e5a888135")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P114")
 					(unit 1)
@@ -36660,7 +36660,7 @@
 			(uuid "54b1c072-9151-4ab8-80c5-8ffc42a41cb4")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U102")
 					(unit 1)
@@ -36852,7 +36852,7 @@
 			(uuid "a6c78498-d7e0-43f6-8b6c-6a6c25943624")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0164")
 					(unit 1)
@@ -36983,7 +36983,7 @@
 			(uuid "3cdd52f9-0a1b-4806-b63b-994ec0652cdd")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0171")
 					(unit 1)
@@ -37251,7 +37251,7 @@
 			(uuid "6a6f3428-3059-4115-9aef-ea9d3d2d43bf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C121")
 					(unit 1)
@@ -37315,7 +37315,7 @@
 			(uuid "1797064e-4710-43bd-a290-fea3fc774a8d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0103")
 					(unit 1)
@@ -37507,7 +37507,7 @@
 			(uuid "098d505b-a1db-4528-94db-1ed2d6a45bde")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0150")
 					(unit 1)
@@ -37642,7 +37642,7 @@
 			(uuid "5a0ca3f3-d91b-40a6-9c79-274b31d7161a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P33")
 					(unit 1)
@@ -37705,7 +37705,7 @@
 			(uuid "0da29f23-e3bf-4afd-bce4-0dea744de81e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0162")
 					(unit 1)
@@ -37769,7 +37769,7 @@
 			(uuid "90a7cd13-6065-4076-944c-40654fc65491")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0177")
 					(unit 1)
@@ -37899,7 +37899,7 @@
 			(uuid "18b1b5ff-6795-4984-88ed-e7e10339b461")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0104")
 					(unit 1)
@@ -38031,7 +38031,7 @@
 			(uuid "4b07ec50-d609-4d6f-b34d-76a9478ba816")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P34")
 					(unit 1)
@@ -38097,7 +38097,7 @@
 			(uuid "29f2fe56-ebef-47a4-b80e-1ef7fcd8e1ef")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R103")
 					(unit 1)
@@ -38293,7 +38293,7 @@
 			(uuid "7793eab8-a5d4-4ac3-b80d-6faa5dc9ae7d")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0130")
 					(unit 1)
@@ -38361,7 +38361,7 @@
 			(uuid "5743ad4e-8986-448a-a2ca-b32235a3de69")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C133")
 					(unit 1)
@@ -38653,7 +38653,7 @@
 			(uuid "4376e91e-5b3b-4e2c-b50a-94ab87b29598")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D112")
 					(unit 1)
@@ -38719,7 +38719,7 @@
 			(uuid "aad3a12c-b50d-4178-875b-9fc01235e416")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P12")
 					(unit 1)
@@ -38913,7 +38913,7 @@
 			(uuid "d670de9e-73b7-4f6f-bd5e-3615a9a0c1f9")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0141")
 					(unit 1)
@@ -39047,7 +39047,7 @@
 			(uuid "00625ae4-8902-48fe-bad7-e8c92b505ccf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R140")
 					(unit 1)
@@ -39119,7 +39119,7 @@
 			(uuid "44355491-69f7-437c-b255-c33fb4e51744")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "Q106")
 					(unit 1)
@@ -39249,7 +39249,7 @@
 			(uuid "54f6d3ef-29e9-47ae-8190-900b0f3f4465")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0154")
 					(unit 1)
@@ -39315,7 +39315,7 @@
 			(uuid "00001701-2a62-4329-a2fb-d720b58ea943")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R123")
 					(unit 1)
@@ -39448,7 +39448,7 @@
 			(uuid "0adda9da-ba71-48dc-9fa7-92b9d22f3f05")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R106")
 					(unit 1)
@@ -39511,7 +39511,7 @@
 			(uuid "bef538b0-3b12-49fc-a631-dbf93218cc46")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P102")
 					(unit 1)
@@ -39640,7 +39640,7 @@
 			(uuid "9f6022ec-5fdb-4d4b-b25d-e53a5ae2a376")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P107")
 					(unit 1)
@@ -39773,7 +39773,7 @@
 			(uuid "db440fcb-805f-407d-852a-e6041aa6bb65")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C125")
 					(unit 1)
@@ -39905,7 +39905,7 @@
 			(uuid "091a31af-31e4-497b-af99-e7e36d9f27f6")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C118")
 					(unit 1)
@@ -39972,7 +39972,7 @@
 			(uuid "82eeee77-c6e1-4455-8281-2c91dc769f41")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R149")
 					(unit 1)
@@ -40038,7 +40038,7 @@
 			(uuid "8d2df24f-088e-45da-88b0-f1b1ca306bfd")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P119")
 					(unit 1)
@@ -40102,7 +40102,7 @@
 			(uuid "2eb0a0e3-ef98-4390-8bfb-4d31d349316e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0159")
 					(unit 1)
@@ -40232,7 +40232,7 @@
 			(uuid "83187ea1-721a-4649-bd17-a0cc457bf4bd")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0129")
 					(unit 1)
@@ -40365,7 +40365,7 @@
 			(uuid "338d3536-bb32-46e4-828c-5833cd898720")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P118")
 					(unit 1)
@@ -40428,7 +40428,7 @@
 			(uuid "25369883-76ba-4824-937a-6f67d513553e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0145")
 					(unit 1)
@@ -40499,7 +40499,7 @@
 			(uuid "fc869d18-8daf-4a0a-b5f3-3efd9ac92c0a")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "Q103")
 					(unit 1)
@@ -40564,7 +40564,7 @@
 			(uuid "f849062e-21dc-4a73-9e0e-bbac3b50ca87")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P22")
 					(unit 1)
@@ -40631,6 +40631,71 @@
 			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "tinkerforge:CONN_1")
+		(at 354.33 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d9d2343a-c3eb-4c7c-b1bc-a597eae31003")
+		(property "Reference" "P136"
+			(at 355.6 57.106 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP VPP"
+			(at 353.06 55.88 90)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "kicad-libraries:TSTP_NANO"
+			(at 354.33 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 354.33 58.42 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 354.33 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d13e0f8b-008e-486a-b99c-8b6416d95f78")
+		)
+		(instances
+			(project "evse-v4"
+				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
+					(reference "P136")
 					(unit 1)
 				)
 			)
@@ -40763,7 +40828,7 @@
 			(uuid "0871d544-9533-4bd8-997b-742ccdd9c83e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D113")
 					(unit 1)
@@ -41094,7 +41159,7 @@
 			(uuid "02340363-2668-4863-a67d-e6e5cdd8b97e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P9")
 					(unit 1)
@@ -41228,7 +41293,7 @@
 			(uuid "6ba2c74f-2cd1-4f5a-8b14-35d4865bc0cf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "C110")
 					(unit 1)
@@ -41359,7 +41424,7 @@
 			(uuid "765bd2a6-34d7-4e05-8291-e09c44a1f2c8")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R146")
 					(unit 1)
@@ -41491,7 +41556,7 @@
 			(uuid "6391f4df-fefe-4e94-9c13-1dc7f33c317f")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R154")
 					(unit 1)
@@ -41557,7 +41622,7 @@
 			(uuid "8dcf42bc-88ad-4285-b534-c69168757827")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R153")
 					(unit 1)
@@ -41621,7 +41686,7 @@
 			(uuid "d34d877b-f011-45eb-814c-54874509562e")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0158")
 					(unit 1)
@@ -41689,7 +41754,7 @@
 			(uuid "3ffcedee-6812-4ce0-a15e-31759b03788c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "D104")
 					(unit 1)
@@ -41908,7 +41973,7 @@
 			(uuid "bed3c619-c31a-4374-bd56-c482bdd1a561")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "U106")
 					(unit 1)
@@ -42039,7 +42104,7 @@
 			(uuid "f93bec1f-2a89-4a54-928c-a80c0ff821bb")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R117")
 					(unit 1)
@@ -42233,7 +42298,7 @@
 			(uuid "3d1944d6-ea6f-474b-ae15-cb46ca780ffa")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0134")
 					(unit 1)
@@ -42298,7 +42363,7 @@
 			(uuid "625ddd48-37f2-4d37-96af-be7e49436519")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P15")
 					(unit 1)
@@ -42364,7 +42429,7 @@
 			(uuid "6a0330a9-681f-4510-b337-99b361cdecc3")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0151")
 					(unit 1)
@@ -42495,7 +42560,7 @@
 			(uuid "668094be-15fe-4547-809a-810e19828908")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0124")
 					(unit 1)
@@ -42564,7 +42629,7 @@
 			(uuid "60c065cf-888f-4df9-af2c-c1b37691f0f7")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R113")
 					(unit 1)
@@ -42632,7 +42697,7 @@
 			(uuid "9281907d-6779-4ac1-a18f-8b2147637226")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "R133")
 					(unit 1)
@@ -42695,7 +42760,7 @@
 			(uuid "e028c935-91b7-40ff-bba8-d8fe97f328bf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P109")
 					(unit 1)
@@ -42827,7 +42892,7 @@
 			(uuid "d5360e6e-cd07-419e-9b86-01a5fa2fd3ed")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P29")
 					(unit 1)
@@ -42956,7 +43021,7 @@
 			(uuid "3ae52b85-1b49-481b-81eb-685934ffbc8c")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P113")
 					(unit 1)
@@ -43215,7 +43280,7 @@
 			(uuid "cde2e6af-5e15-4a23-8b60-c4936a2d6210")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "P24")
 					(unit 1)
@@ -43279,7 +43344,7 @@
 			(uuid "e39a6bbe-ca87-4506-9a7f-5b2f5af151cf")
 		)
 		(instances
-			(project "evse-v3"
+			(project "evse-v4"
 				(path "/f609c103-5320-46aa-8e26-d6b60e489ee7"
 					(reference "#PWR0172")
 					(unit 1)

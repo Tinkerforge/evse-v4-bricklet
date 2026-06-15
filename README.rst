@@ -1,10 +1,7 @@
 EVSE Bricklet 4.0
 =================
 
-This repository contains the hardware design
-files. The documentation generator configs can be found at
-https://github.com/Tinkerforge/generators
-
+This repository contains the hardware design files. 
 The firmware for the EVSE Bricklet 4.0 is shared with the
 EVSE Bricklet 2.0: https://github.com/Tinkerforge/evse-v2-bricklet/
 
